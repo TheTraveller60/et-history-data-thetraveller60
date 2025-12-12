@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/1776 - Karelia.txt
 2.1.1:
-  pop:
-    ethnicity: karelian
-    religion: muinaisusko
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: karelian
+      religion: muinaisusko
+      estate: peasant
+      size: 1000
 750.1.1:
   owner: KRL
   controller: KRL
@@ -19,10 +19,10 @@
 1300.1.1:
   cores:
     SMI: no
-  pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: orthodox
+      estate: peasant
+      size: 1000
 1478.1.15:
   owner: MOS
   controller: MOS
@@ -36,10 +36,10 @@
     MOS: no
     RUS: yes
 1850.1.1:
-  pop:
-    ethnicity: novgorodian
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: novgorodian
+      estate: peasant
+      size: 1000
 1922.12.30:
   owner: SOVI
   controller: SOVI

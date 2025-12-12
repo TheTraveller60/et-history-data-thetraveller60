@@ -5,11 +5,11 @@
   cores:
     HAYA: yes
   resource: fish
-  pop:
-    ethnicity: kumaso
-    religion: shinto
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: kumaso
+      religion: shinto
+      estate: peasant
+      size: 1000
 680.1.1:
   owner: YMT
   controller: YMT
@@ -17,10 +17,10 @@
     HAYA: no
     YMT: yes
 750.1.1:
-  pop:
-    ethnicity: saigoku_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: saigoku_culture
+      estate: peasant
+      size: 1000
 794.1.1:
   owner: JAP
   controller: JAP

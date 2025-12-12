@@ -5,11 +5,11 @@
   cores:
     SATA: yes
   resource: cotton
-  pop:
-    ethnicity: telugu
-    religion: hindu
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: telugu
+      religion: hindu
+      estate: peasant
+      size: 1000
 220.1.1:
   owner: CHOL
   controller: CHOL
@@ -23,15 +23,15 @@
     CHOL: no
     PALL: yes
 590.1.1:
-  pop:
-    religion: jain
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: jain
+      estate: peasant
+      size: 1000
 620.1.1:
-  pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: hindu
+      estate: peasant
+      size: 1000
 897.1.1:
   owner: CHOL
   controller: CHOL

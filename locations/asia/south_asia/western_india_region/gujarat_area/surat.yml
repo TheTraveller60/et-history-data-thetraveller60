@@ -5,11 +5,11 @@
   cores:
     WSAT: yes
   resource: silk
-  pop:
-    ethnicity: gujarati
-    religion: jain
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: gujarati
+      religion: jain
+      estate: peasant
+      size: 1000
 260.1.1:
   owner: ABHI
   controller: ABHI
@@ -41,10 +41,10 @@
     CHAL: no
     RAST: yes
 790.1.1:
-  pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: hindu
+      estate: peasant
+      size: 1000
 800.1.1:
   owner: KONK
   controller: KONK

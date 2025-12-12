@@ -5,22 +5,22 @@
   cores:
     GOTI: yes
   resource: wine
-  pop:
-    ethnicity: pannonian
-    religion: druidism
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: pannonian
+      religion: druidism
+      estate: peasant
+      size: 1000
 173.1.1:
   owner: MARC
   controller: MARC
   cores:
     GOTI: no
     MARC: yes
-  pop:
-    ethnicity: southern_bavarian
-    religion: germanic
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: southern_bavarian
+      religion: germanic
+      estate: peasant
+      size: 1000
 454.1.1:
   owner: RUGI
   controller: RUGI
@@ -28,11 +28,11 @@
     MARC: no
     RUGI: yes
 460.1.1:
-  pop:
-    ethnicity: danube_bavarian
-    religion: arianism
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: danube_bavarian
+      religion: arianism
+      estate: peasant
+      size: 1000
 487.1.1:
   owner: ITA
   controller: ITA
@@ -42,10 +42,10 @@
   cores:
     RUGI: no
     LOMB: yes
-  pop:
-    ethnicity: langobardi
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: langobardi
+      estate: peasant
+      size: 1000
 568.1.1:
   owner: AVR
   controller: AVR
@@ -53,20 +53,20 @@
     LOMB: no
     AVR: yes
 580.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 623.1.1:
   owner: SAMO
   controller: SAMO
   cores:
     AVR: no
     SAMO: yes
-  pop:
-    ethnicity: czech
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: czech
+      estate: peasant
+      size: 1000
 659.1.1:
   owner: NITR
   controller: NITR
@@ -86,10 +86,10 @@
     FRAN: no
     BAV: yes
 867.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: catholic
+      estate: peasant
+      size: 1000
 880.1.1:
   owner: MVA
   controller: MVA
@@ -102,10 +102,10 @@
   cores:
     BOH: yes
 950.1.1:
-  pop:
-    ethnicity: danube_bavarian
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: danube_bavarian
+      estate: peasant
+      size: 1000
 960.1.1:
   owner: HAB
   controller: HAB

@@ -6,11 +6,11 @@
     HAN0: yes
     WEI0: yes
   resource: naval_supplies
-  pop:
-    ethnicity: korean_culture
-    religion: muism
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: korean_culture
+      religion: muism
+      estate: peasant
+      size: 1000
 9.1.10:
   owner: XIN0
   controller: XIN0
@@ -48,10 +48,10 @@
   owner: BAEK
   controller: BAEK
 372.1.1:
-  pop:
-    religion: mahayana
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: mahayana
+      estate: peasant
+      size: 1000
 395.1.1:
   owner: GOGU
   controller: GOGU
@@ -89,10 +89,10 @@
   cores:
     GORY: no
     KOR: yes
-  pop:
-    religion: sanjiao
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: sanjiao
+      estate: peasant
+      size: 1000
 1592.6.9:
   controller: TOYO
 1593.2.15:
@@ -130,7 +130,7 @@
     NKOR: yes
     SKOR: yes
 1960.1.1:
-  pop:
-    religion: irreligious
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: irreligious
+      estate: peasant
+      size: 1000

@@ -5,11 +5,11 @@
   cores:
     ALN: yes
   resource: fish
-  pop:
-    ethnicity: avar_culture
-    religion: 
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: avar_culture
+      religion: 
+      estate: peasant
+      size: 1000
 253.1.1:
   owner: ERA
   controller: ERA
@@ -18,10 +18,10 @@
 450.1.1:
   cores:
     ALN: no
-  pop:
-    ethnicity: khazar
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: khazar
+      estate: peasant
+      size: 1000
 620.1.1:
   owner: KHAZ
   controller: KHAZ
@@ -41,11 +41,11 @@
     RASH: no
     UMAY: yes
 720.1.1:
-  pop:
-    ethnicity: lezgin_culture
-    religion: shia
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: lezgin_culture
+      religion: shia
+      estate: peasant
+      size: 1000
 734.1.1:
   owner: GAZI
   controller: GAZI

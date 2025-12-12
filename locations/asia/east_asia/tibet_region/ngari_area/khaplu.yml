@@ -5,26 +5,26 @@
   cores:
     BALT: yes
   resource: wool
-  pop:
-    ethnicity: ladakh_culture
-    religion: bon
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: ladakh_culture
+      religion: bon
+      estate: peasant
+      size: 1000
 100.1.1:
-  pop:
-    religion: mahayana
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: mahayana
+      estate: peasant
+      size: 1000
 645.1.1:
   owner: TIB
   controller: TIB
   cores:
     TIB: yes
 760.1.1:
-  pop:
-    religion: tibetan_buddhism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: tibetan_buddhism
+      estate: peasant
+      size: 1000
 842.1.1:
   owner: UTSA
   controller: UTSA
@@ -50,10 +50,10 @@
     LADA: no
     BALT: yes
 1580.1.1:
-  pop:
-    religion: shia
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: shia
+      estate: peasant
+      size: 1000
 1839.1.1:
   owner: PUN
   controller: PUN

@@ -5,21 +5,21 @@
   cores:
     SAMT: yes
   resource: cloth
-  pop:
-    ethnicity: bengali
-    religion: mahayana
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: bengali
+      religion: mahayana
+      estate: peasant
+      size: 1000
 1180.1.1:
   owner: GAUD
   controller: GAUD
   cores:
     SAMT: no
     GAUD: yes
-  pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: hindu
+      estate: peasant
+      size: 1000
 1230.1.1:
   owner: SAMT
   controller: SAMT
@@ -42,10 +42,10 @@
   cores:
     DLH: no
 1560.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1576.7.12:
   owner: MUG
   controller: MUG

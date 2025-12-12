@@ -5,11 +5,11 @@
   cores:
     BRIG: yes
   resource: cloth
-  pop:
-    ethnicity: briton
-    religion: druidism
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: briton
+      religion: druidism
+      estate: peasant
+      size: 1000
 71.1.1:
   controller: ROM
 78.1.1:
@@ -33,16 +33,16 @@
     ROMW: no
     BRIG: no
     DEIR: yes
-  pop:
-    ethnicity: welsh
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: welsh
+      estate: peasant
+      size: 1000
 559.1.1:
-  pop:
-    ethnicity: anglo_saxon
-    religion: germanic
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: anglo_saxon
+      religion: germanic
+      estate: peasant
+      size: 1000
 604.1.1:
   owner: BERN
   controller: BERN
@@ -54,10 +54,10 @@
   cores:
     BERN: no
 640.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 654.1.1:
   owner: NOL
   controller: NOL
@@ -65,11 +65,11 @@
     DEIR: no
     NOL: yes
 875.1.1:
-  pop:
-    ethnicity: danish
-    religion: norse
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: danish
+      religion: norse
+      estate: peasant
+      size: 1000
 918.1.1:
   owner: MNN
   controller: MNN
@@ -97,19 +97,19 @@
 954.1.1:
   owner: ENG
   controller: ENG
-  pop:
-    ethnicity: anglo_saxon
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: anglo_saxon
+      religion: catholic
+      estate: peasant
+      size: 1000
 1000.1.1:
   cores:
     NOL: no
 1066.12.25:
-  pop:
-    ethnicity: english
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: english
+      estate: peasant
+      size: 1000
 1461.6.28:
   controller: ENG
 1470.10.6:
@@ -117,10 +117,10 @@
 1471.5.4:
   controller: ENG
 1600.1.1:
-  pop:
-    religion: anglican
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: anglican
+      estate: peasant
+      size: 1000
 1646.5.5:
   controller: ENG
 1707.5.12:

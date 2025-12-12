@@ -5,11 +5,11 @@
   cores:
     ROM: yes
   resource: salt
-  pop:
-    ethnicity: old_egyptian
-    religion: judaism
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: old_egyptian
+      religion: judaism
+      estate: peasant
+      size: 1000
 395.1.17:
   owner: BYZ
   controller: BYZ
@@ -17,10 +17,10 @@
     ROM: no
     BYZ: yes
 400.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 618.1.1:
   controller: ERA
 628.1.1:
@@ -38,11 +38,11 @@
     RASH: no
     UMAY: yes
 720.1.1:
-  pop:
-    ethnicity: lower_egyptian_culture
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: lower_egyptian_culture
+      religion: sunni
+      estate: peasant
+      size: 1000
 750.8.6:
   owner: ABBA
   controller: ABBA

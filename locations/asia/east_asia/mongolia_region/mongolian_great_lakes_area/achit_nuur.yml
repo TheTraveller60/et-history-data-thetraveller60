@@ -5,11 +5,11 @@
   cores:
     XION: yes
   resource: livestock
-  pop:
-    ethnicity: oirat_culture
-    religion: 
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: oirat_culture
+      religion: 
+      estate: peasant
+      size: 1000
 91.2.1:
   owner: XIAN
   controller: XIAN
@@ -28,10 +28,10 @@
   cores:
     ROUR: no
     GOKT: yes
-  pop:
-    ethnicity: tuvan_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: tuvan_culture
+      estate: peasant
+      size: 1000
 627.1.1:
   owner: UYGH
   controller: UYGH
@@ -49,25 +49,25 @@
     GOKT: no
     UYGH: yes
 765.1.1:
-  pop:
-    religion: manichaeism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: manichaeism
+      estate: peasant
+      size: 1000
 840.1.1:
-  pop:
-    religion: 
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: 
+      estate: peasant
+      size: 1000
 848.1.1:
   owner: NAIM
   controller: NAIM
   cores:
     UYGH: no
     NAIM: yes
-  pop:
-    ethnicity: oirat_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: oirat_culture
+      estate: peasant
+      size: 1000
 1204.1.1:
   owner: KHMO
   controller: KHMO
@@ -104,10 +104,10 @@
   cores:
     MGE: yes
 1586.1.1:
-  pop:
-    religion: tibetan_buddhism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: tibetan_buddhism
+      estate: peasant
+      size: 1000
 1623.1.1:
   owner: OIR
   controller: OIR
@@ -122,11 +122,11 @@
   cores:
     QNG: yes
 1755.1.1:
-  pop:
-    ethnicity: khazak
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: khazak
+      religion: sunni
+      estate: peasant
+      size: 1000
 1840.1.1:
   cores:
     OIR: no

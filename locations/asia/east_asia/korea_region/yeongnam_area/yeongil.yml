@@ -5,11 +5,11 @@
   cores:
     JINH: yes
   resource: tea
-  pop:
-    ethnicity: korean_culture
-    religion: muism
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: korean_culture
+      religion: muism
+      estate: peasant
+      size: 1000
 120.1.1:
   owner: SILL
   controller: SILL
@@ -17,10 +17,10 @@
     JINH: no
     SILL: yes
 530.1.1:
-  pop:
-    religion: mahayana
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: mahayana
+      estate: peasant
+      size: 1000
 935.1.1:
   owner: GORY
   controller: GORY
@@ -33,10 +33,10 @@
   cores:
     GORY: no
     KOR: yes
-  pop:
-    religion: sanjiao
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: sanjiao
+      estate: peasant
+      size: 1000
 1592.5.25:
   controller: TOYO
 1598.12.24:
@@ -76,7 +76,7 @@
 1950.1.1:
   resource: cars
 1960.1.1:
-  pop:
-    religion: mahayana
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: mahayana
+      estate: peasant
+      size: 1000

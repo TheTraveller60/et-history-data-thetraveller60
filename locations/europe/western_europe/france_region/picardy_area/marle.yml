@@ -5,11 +5,11 @@
   cores:
     ROM: yes
   resource: cloth
-  pop:
-    ethnicity: gallian
-    religion: druidism
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: gallian
+      religion: druidism
+      estate: peasant
+      size: 1000
 260.1.1:
   cores:
     GALL: yes
@@ -17,10 +17,10 @@
   controller: ROM
   cores:
     GALL: no
-  pop:
-    ethnicity: frankish
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: frankish
+      estate: peasant
+      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -28,10 +28,10 @@
     ROM: no
     ROMW: yes
 420.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 461.11.1:
   owner: SOIS
   controller: SOIS
@@ -46,10 +46,10 @@
   cores:
     SOIS: no
     FRAN: yes
-  pop:
-    ethnicity: walloon
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: walloon
+      estate: peasant
+      size: 1000
 511.11.27:
   owner: SOIS
   controller: SOIS
@@ -90,10 +90,10 @@
     FRAN: no
     WFRA: yes
 867.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: catholic
+      estate: peasant
+      size: 1000
 987.7.3:
   owner: FRA
   controller: FRA
@@ -151,10 +151,10 @@
 1636.10.10:
   controller: FRA
 1684.1.1:
-  pop:
-    ethnicity: french
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: french
+      estate: peasant
+      size: 1000
 1870.9.4:
   owner: FRA
   controller: PRU

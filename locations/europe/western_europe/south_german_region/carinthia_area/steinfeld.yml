@@ -5,11 +5,11 @@
   cores:
     ROM: yes
   resource: iron
-  pop:
-    ethnicity: noric
-    religion: druidism
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: noric
+      religion: druidism
+      estate: peasant
+      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -17,16 +17,16 @@
     ROM: no
     ROMW: yes
 420.1.1:
-  pop:
-    ethnicity: danube_bavarian
-    religion: germanic
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: danube_bavarian
+      religion: germanic
+      estate: peasant
+      size: 1000
 430.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 476.9.4:
   owner: ITA
   controller: ITA
@@ -42,10 +42,10 @@
     ITA: no
     OSTR: yes
 500.1.1:
-  pop:
-    religion: arianism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: arianism
+      estate: peasant
+      size: 1000
 553.1.1:
   owner: LOMB
   controller: LOMB
@@ -59,10 +59,10 @@
     LOMB: no
     AVR: yes
 600.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 623.1.1:
   owner: SAMO
   controller: SAMO
@@ -94,10 +94,10 @@
     FRAN: no
     BAV: yes
 867.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: catholic
+      estate: peasant
+      size: 1000
 880.3.22:
   owner: EFRA
   controller: EFRA

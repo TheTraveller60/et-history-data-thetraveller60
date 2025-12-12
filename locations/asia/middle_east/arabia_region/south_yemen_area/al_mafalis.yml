@@ -5,16 +5,16 @@
   cores:
     HIMY: yes
   resource: incense
-  pop:
-    ethnicity: yemeni_culture
-    religion: south_arabian
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: yemeni_culture
+      religion: south_arabian
+      estate: peasant
+      size: 1000
 500.1.1:
-  pop:
-    religion: judaism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: judaism
+      estate: peasant
+      size: 1000
 525.1.1:
   owner: AKSM
   controller: AKSM
@@ -32,20 +32,20 @@
   controller: RASH
   cores:
     RASH: yes
-  pop:
-    religion: islam
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: islam
+      estate: peasant
+      size: 1000
 661.7.28:
   owner: UMAY
   controller: UMAY
   cores:
     RASH: no
     UMAY: yes
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: sunni
+      estate: peasant
+      size: 1000
 750.8.6:
   owner: ABBA
   controller: ABBA

@@ -5,11 +5,11 @@
   cores:
     DACI: yes
   resource: wool
-  pop:
-    ethnicity: dacian
-    religion: zamolxism
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: dacian
+      religion: zamolxism
+      estate: peasant
+      size: 1000
 106.1.1:
   owner: ROM
   controller: ROM
@@ -23,10 +23,10 @@
   controller: HUNS
   cores:
     HUNS: yes
-  pop:
-    religion: 
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: 
+      estate: peasant
+      size: 1000
 395.1.17:
   cores:
     BYZ: yes
@@ -48,10 +48,10 @@
   cores:
     AVR: no
     KUTR: yes
-  pop:
-    ethnicity: bolghar_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: bolghar_culture
+      estate: peasant
+      size: 1000
 632.1.1:
   owner: BUL
   controller: BUL
@@ -59,21 +59,21 @@
     KUTR: no
     BUL: yes
 864.1.1:
-  pop:
-    ethnicity: bulgarian
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: bulgarian
+      religion: chalcedonism
+      estate: peasant
+      size: 1000
 867.1.1:
-  pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: orthodox
+      estate: peasant
+      size: 1000
 900.1.1:
-  pop:
-    ethnicity: wallachian
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: wallachian
+      estate: peasant
+      size: 1000
 969.1.1:
   owner: PECH
   controller: PECH
@@ -171,10 +171,10 @@
     RMN: no
     MOL: no
 1980.1.1:
-  pop:
-    ethnicity: ruthenian
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: ruthenian
+      estate: peasant
+      size: 1000
 1991.8.24:
   owner: UKR
   controller: UKR

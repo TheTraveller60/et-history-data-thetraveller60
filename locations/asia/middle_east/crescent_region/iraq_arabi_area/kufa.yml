@@ -5,11 +5,11 @@
   cores:
     PART: yes
   resource: wool
-  pop:
-    ethnicity: assyrian
-    religion: ashurism
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: assyrian
+      religion: ashurism
+      estate: peasant
+      size: 1000
 116.1.1:
   owner: ROM
   controller: ROM
@@ -21,10 +21,10 @@
   cores:
     ROM: no
 210.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 220.1.1:
   owner: LAKH
   controller: LAKH
@@ -32,10 +32,10 @@
     PART: no
     LAKH: yes
 431.7.1:
-  pop:
-    religion: nestorianism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: nestorianism
+      estate: peasant
+      size: 1000
 602.1.1:
   owner: ERA
   controller: ERA
@@ -55,11 +55,11 @@
     RASH: no
     UMAY: yes
 680.1.1:
-  pop:
-    ethnicity: iraqi_culture
-    religion: shia
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: iraqi_culture
+      religion: shia
+      estate: peasant
+      size: 1000
 750.8.6:
   owner: ABBA
   controller: ABBA

@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/4267 - Bolgar.txt
 2.1.1:
-  pop:
-    ethnicity: bolghar_culture
-    religion: 
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: bolghar_culture
+      religion: 
+      estate: peasant
+      size: 1000
 660.1.1:
   owner: VBUL
   controller: VBUL
@@ -12,10 +12,10 @@
     VBUL: yes
   resource: iron
 1100.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1236.1.1:
   owner: MGE
   controller: MGE
@@ -25,10 +25,10 @@
   cores:
     VBUL: no
     KAZN: yes
-  pop:
-    ethnicity: kazani
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: kazani
+      estate: peasant
+      size: 1000
 1260.1.1:
   owner: WHHO
   controller: WHHO
@@ -63,11 +63,11 @@
     KAZN: no
     RUS: yes
 1648.1.1:
-  pop:
-    ethnicity: muscovite
-    religion: orthodox
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: muscovite
+      religion: orthodox
+      estate: peasant
+      size: 1000
 1671.4.14:
   controller: RUS
 1775.2.1:

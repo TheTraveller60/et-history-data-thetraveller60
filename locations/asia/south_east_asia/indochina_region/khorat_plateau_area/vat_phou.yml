@@ -5,11 +5,11 @@
   cores:
     KUY: yes
   resource: tea
-  pop:
-    ethnicity: bru_culture
-    religion: bimoism
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: bru_culture
+      religion: bimoism
+      estate: peasant
+      size: 1000
 450.1.1:
   owner: CHEN
   controller: CHEN
@@ -29,11 +29,11 @@
     LCHE: no
     CAMB: yes
 1150.1.1:
-  pop:
-    ethnicity: lao_culture
-    religion: satsana_phi
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: lao_culture
+      religion: satsana_phi
+      estate: peasant
+      size: 1000
 1354.1.1:
   owner: LAXA
   controller: LAXA
@@ -44,10 +44,10 @@
   cores:
     DAI: yes
 1650.1.1:
-  pop:
-    religion: theravada
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: theravada
+      estate: peasant
+      size: 1000
 1707.1.1:
   owner: VTN
   controller: VTN

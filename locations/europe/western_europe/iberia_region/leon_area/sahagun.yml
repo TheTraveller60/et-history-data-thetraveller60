@@ -5,16 +5,16 @@
   cores:
     ROM: yes
   resource: livestock
-  pop:
-    ethnicity: cantabrian
-    religion: druidism
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: cantabrian
+      religion: druidism
+      estate: peasant
+      size: 1000
 360.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -49,10 +49,10 @@
   cores:
     VISG: no
     UMAY: yes
-  pop:
-    ethnicity: leonese
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: leonese
+      estate: peasant
+      size: 1000
 742.1.1:
   owner: ASTU
   controller: ASTU
@@ -60,10 +60,10 @@
     UMAY: no
     ASTU: yes
 867.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: catholic
+      estate: peasant
+      size: 1000
 910.12.10:
   owner: LON
   controller: LON

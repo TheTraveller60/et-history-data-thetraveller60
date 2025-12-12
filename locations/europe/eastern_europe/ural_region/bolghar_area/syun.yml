@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/4265 - Ar-Chally.txt
 2.1.1:
-  pop:
-    ethnicity: bashkir
-    religion: 
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: bashkir
+      religion: 
+      estate: peasant
+      size: 1000
 660.1.1:
   owner: BSH
   controller: BSH
@@ -12,10 +12,10 @@
     BSH: yes
   resource: grain
 960.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1236.1.1:
   owner: MGE
   controller: MGE
@@ -49,10 +49,10 @@
     GLH: no
     KAZN: yes
 1480.1.1:
-  pop:
-    ethnicity: kazani
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: kazani
+      estate: peasant
+      size: 1000
 1552.10.2:
   owner: RUS
   controller: RUS

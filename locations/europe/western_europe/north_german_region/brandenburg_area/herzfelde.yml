@@ -5,32 +5,32 @@
   cores:
     SEMN: yes
   resource: cloth
-  pop:
-    ethnicity: east_franconian
-    religion: germanic
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: east_franconian
+      religion: germanic
+      estate: peasant
+      size: 1000
 200.1.1:
   owner: BUR
   controller: BUR
   cores:
     SEMN: no
     BUR: yes
-  pop:
-    ethnicity: burgundione
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: burgundione
+      estate: peasant
+      size: 1000
 395.1.1:
   owner: VELE
   controller: VELE
   cores:
     BUR: no
     VELE: yes
-  pop:
-    ethnicity: polabian
-    religion: slavic
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: polabian
+      religion: slavic
+      estate: peasant
+      size: 1000
 929.1.1:
   owner: SAX
   controller: SAX
@@ -50,30 +50,30 @@
     BRA: no
     KOPA: yes
 1140.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1157.10.3:
   owner: BRA
   controller: BRA
   cores:
     BRA: yes
 1237.1.1:
-  pop:
-    ethnicity: saxon
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: saxon
+      estate: peasant
+      size: 1000
 1539.1.1:
-  pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: lutheran
+      estate: peasant
+      size: 1000
 1650.1.1:
-  pop:
-    ethnicity: prussian
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: prussian
+      estate: peasant
+      size: 1000
 1701.1.18:
   owner: PRU
   controller: PRU
@@ -100,10 +100,10 @@
   cores:
     EGER: yes
 1955.1.1:
-  pop:
-    religion: irreligious
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: irreligious
+      estate: peasant
+      size: 1000
 1990.10.3:
   owner: GER
   controller: GER

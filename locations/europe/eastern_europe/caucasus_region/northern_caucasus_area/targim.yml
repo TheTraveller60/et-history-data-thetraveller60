@@ -5,16 +5,16 @@
   cores:
     ALN: yes
   resource: wool
-  pop:
-    ethnicity: alan_culture
-    religion: 
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: alan_culture
+      religion: 
+      estate: peasant
+      size: 1000
 932.1.1:
-  pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: orthodox
+      estate: peasant
+      size: 1000
 1236.1.1:
   owner: MGE
   controller: MGE

@@ -5,16 +5,16 @@
   cores:
     IBER: yes
   resource: wine
-  pop:
-    ethnicity: georgian_culture
-    religion: georgian_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: georgian_culture
+      religion: georgian_religion
+      estate: peasant
+      size: 1000
 326.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 580.1.1:
   owner: ERA
   controller: ERA
@@ -54,10 +54,10 @@
     IBER: no
     KAKH: yes
 867.1.1:
-  pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: orthodox
+      estate: peasant
+      size: 1000
 1029.1.1:
   owner: GEO
   controller: GEO

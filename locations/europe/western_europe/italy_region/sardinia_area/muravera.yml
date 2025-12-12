@@ -5,11 +5,11 @@
   cores:
     ROM: yes
   resource: fish
-  pop:
-    ethnicity: sardinian
-    religion: hellenism_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: sardinian
+      religion: hellenism_religion
+      estate: peasant
+      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -29,15 +29,15 @@
     VAND: no
     BYZ: yes
 594.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 867.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1015.1.1:
   owner: CAG
   controller: CAG

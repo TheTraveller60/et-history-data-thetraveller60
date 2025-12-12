@@ -6,11 +6,11 @@
     HAN0: yes
     WEI0: yes
   resource: grain
-  pop:
-    ethnicity: korean_culture
-    religion: muism
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: korean_culture
+      religion: muism
+      estate: peasant
+      size: 1000
 9.1.10:
   owner: XIN0
   controller: XIN0
@@ -45,10 +45,10 @@
     JIN1: no
     GOGU: yes
 372.1.1:
-  pop:
-    religion: mahayana
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: mahayana
+      estate: peasant
+      size: 1000
 668.1.1:
   owner: TANG
   controller: TANG
@@ -96,10 +96,10 @@
   cores:
     GORY: no
     KOR: yes
-  pop:
-    religion: sanjiao
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: sanjiao
+      estate: peasant
+      size: 1000
 1593.2.8:
   controller: KOR
 1637.1.1:
@@ -129,10 +129,10 @@
     KOR: no
     JOE: yes
 1946.1.1:
-  pop:
-    religion: muism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: muism
+      estate: peasant
+      size: 1000
 1948.9.9:
   owner: NKOR
   controller: NKOR
@@ -140,7 +140,7 @@
     NKOR: yes
     SKOR: yes
 1950.1.1:
-  pop:
-    religion: irreligious
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: irreligious
+      estate: peasant
+      size: 1000

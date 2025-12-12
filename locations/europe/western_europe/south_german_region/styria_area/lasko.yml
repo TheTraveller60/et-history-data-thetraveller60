@@ -5,16 +5,16 @@
   cores:
     ROM: yes
   resource: wine
-  pop:
-    ethnicity: noric
-    religion: druidism
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: noric
+      religion: druidism
+      estate: peasant
+      size: 1000
 300.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -35,25 +35,25 @@
   cores:
     ITA: no
     OSTR: yes
-  pop:
-    ethnicity: gothic
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: gothic
+      estate: peasant
+      size: 1000
 490.1.1:
-  pop:
-    religion: arianism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: arianism
+      estate: peasant
+      size: 1000
 545.1.1:
   owner: BYZ
   controller: BYZ
   cores:
     BYZ: yes
 550.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 568.1.1:
   owner: LOMB
   controller: LOMB
@@ -67,10 +67,10 @@
   cores:
     LOMB: no
     AVR: yes
-  pop:
-    ethnicity: slovene
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: slovene
+      estate: peasant
+      size: 1000
 623.1.1:
   owner: SAMO
   controller: SAMO
@@ -84,10 +84,10 @@
     SAMO: no
     CART: yes
 690.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 745.1.1:
   owner: BAV
   controller: BAV
@@ -107,10 +107,10 @@
     FRAN: no
     BAV: yes
 867.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: catholic
+      estate: peasant
+      size: 1000
 880.3.22:
   owner: EFRA
   controller: EFRA

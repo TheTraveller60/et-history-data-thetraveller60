@@ -5,31 +5,31 @@
   cores:
     MARC: yes
   resource: grain
-  pop:
-    ethnicity: southern_bavarian
-    religion: germanic
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: southern_bavarian
+      religion: germanic
+      estate: peasant
+      size: 1000
 395.1.1:
   owner: VAND
   controller: VAND
   cores:
     MARC: no
     VAND: yes
-  pop:
-    ethnicity: vandal
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: vandal
+      estate: peasant
+      size: 1000
 417.1.1:
   owner: MARC
   controller: MARC
   cores:
     VAND: no
     MARC: yes
-  pop:
-    ethnicity: southern_bavarian
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: southern_bavarian
+      estate: peasant
+      size: 1000
 454.1.1:
   owner: RUGI
   controller: RUGI
@@ -42,21 +42,21 @@
   cores:
     RUGI: no
     LOMB: yes
-  pop:
-    ethnicity: langobardi
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: langobardi
+      estate: peasant
+      size: 1000
 550.1.1:
   owner: BOH
   controller: BOH
   cores:
     LOMB: no
     BOH: yes
-  pop:
-    ethnicity: czech
-    religion: slavic
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: czech
+      religion: slavic
+      estate: peasant
+      size: 1000
 623.1.1:
   owner: SAMO
   controller: SAMO
@@ -69,10 +69,10 @@
     SAMO: no
     MVA: yes
 880.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: catholic
+      estate: peasant
+      size: 1000
 894.1.1:
   owner: BOH
   controller: BOH

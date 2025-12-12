@@ -5,11 +5,11 @@
   cores:
     WSAT: yes
   resource: dyes
-  pop:
-    ethnicity: gujarati
-    religion: hindu
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: gujarati
+      religion: hindu
+      estate: peasant
+      size: 1000
 405.1.1:
   owner: GUPT
   controller: GUPT
@@ -35,10 +35,10 @@
     PORD: no
     JNG: yes
 1080.1.1:
-  pop:
-    religion: jain
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: jain
+      estate: peasant
+      size: 1000
 1147.1.1:
   owner: KATH
   controller: KATH
@@ -46,10 +46,10 @@
     JNG: no
     KATH: yes
 1190.1.1:
-  pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: hindu
+      estate: peasant
+      size: 1000
 1470.1.1:
   owner: GUJ
   controller: GUJ

@@ -5,16 +5,16 @@
   cores:
     ROM: yes
   resource: grain
-  pop:
-    ethnicity: noric
-    religion: druidism
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: noric
+      religion: druidism
+      estate: peasant
+      size: 1000
 340.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -22,11 +22,11 @@
     ROM: no
     ROMW: yes
 420.1.1:
-  pop:
-    ethnicity: danube_bavarian
-    religion: germanic
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: danube_bavarian
+      religion: germanic
+      estate: peasant
+      size: 1000
 476.9.4:
   owner: ITA
   controller: ITA
@@ -42,10 +42,10 @@
     ITA: no
     OSTR: yes
 500.1.1:
-  pop:
-    religion: arianism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: arianism
+      estate: peasant
+      size: 1000
 553.1.1:
   owner: LOMB
   controller: LOMB
@@ -58,11 +58,11 @@
   cores:
     LOMB: no
     AVR: yes
-  pop:
-    ethnicity: slovene
-    religion: slavic
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: slovene
+      religion: slavic
+      estate: peasant
+      size: 1000
 623.1.1:
   owner: SAMO
   controller: SAMO
@@ -76,10 +76,10 @@
     SAMO: no
     CART: yes
 660.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 745.1.1:
   owner: BAV
   controller: BAV
@@ -87,10 +87,10 @@
     CART: no
     BAV: yes
 750.1.1:
-  pop:
-    ethnicity: danube_bavarian
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: danube_bavarian
+      estate: peasant
+      size: 1000
 788.1.1:
   owner: FRAN
   controller: FRAN
@@ -104,10 +104,10 @@
     FRAN: no
     BAV: yes
 867.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: catholic
+      estate: peasant
+      size: 1000
 880.3.22:
   owner: EFRA
   controller: EFRA

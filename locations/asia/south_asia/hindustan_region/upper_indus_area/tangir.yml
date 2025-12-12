@@ -5,16 +5,16 @@
   cores:
     GLI: yes
   resource: wool
-  pop:
-    ethnicity: kashmiri_culture
-    religion: bon
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: kashmiri_culture
+      religion: bon
+      estate: peasant
+      size: 1000
 100.1.1:
-  pop:
-    religion: mahayana
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: mahayana
+      estate: peasant
+      size: 1000
 375.1.1:
   owner: KIDA
   controller: KIDA
@@ -38,10 +38,10 @@
   cores:
     TIB: yes
 760.1.1:
-  pop:
-    religion: tibetan_buddhism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: tibetan_buddhism
+      estate: peasant
+      size: 1000
 842.1.1:
   owner: GLI
   controller: GLI
@@ -50,10 +50,10 @@
     KSH: no
     GLI: yes
 1410.1.1:
-  pop:
-    religion: shia
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: shia
+      estate: peasant
+      size: 1000
 1479.1.1:
   owner: KSH
   controller: KSH

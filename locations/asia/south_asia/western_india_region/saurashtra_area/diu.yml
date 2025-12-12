@@ -5,11 +5,11 @@
   cores:
     WSAT: yes
   resource: sugar
-  pop:
-    ethnicity: gujarati
-    religion: hindu
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: gujarati
+      religion: hindu
+      estate: peasant
+      size: 1000
 405.1.1:
   owner: GUPT
   controller: GUPT

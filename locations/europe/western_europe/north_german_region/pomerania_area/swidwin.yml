@@ -5,11 +5,11 @@
   cores:
     LEMO: yes
   resource: fish
-  pop:
-    ethnicity: western_pomeranian
-    religion: germanic
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: western_pomeranian
+      religion: germanic
+      estate: peasant
+      size: 1000
 130.1.1:
   owner: RUGI
   controller: RUGI
@@ -28,17 +28,17 @@
   cores:
     RUGE: no
     POM: yes
-  pop:
-    ethnicity: kashubian
-    religion: slavic
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: kashubian
+      religion: slavic
+      estate: peasant
+      size: 1000
 1128.1.1:
-  pop:
-    ethnicity: western_pomeranian
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: western_pomeranian
+      religion: catholic
+      estate: peasant
+      size: 1000
 1186.1.1:
   owner: DAN
   controller: DAN
@@ -59,10 +59,10 @@
   cores:
     BRA: yes
 1534.1.1:
-  pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: lutheran
+      estate: peasant
+      size: 1000
 1648.10.24:
   owner: BRA
   controller: BRA
@@ -90,8 +90,8 @@
     GER: no
     POL: yes
 1975.1.1:
-  pop:
-    ethnicity: lesser_polish
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: lesser_polish
+      religion: catholic
+      estate: peasant
+      size: 1000

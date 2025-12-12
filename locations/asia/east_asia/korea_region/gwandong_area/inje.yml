@@ -5,16 +5,16 @@
   cores:
     DONG: yes
   resource: chinaware
-  pop:
-    ethnicity: korean_culture
-    religion: muism
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: korean_culture
+      religion: muism
+      estate: peasant
+      size: 1000
 372.1.1:
-  pop:
-    religion: mahayana
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: mahayana
+      estate: peasant
+      size: 1000
 420.1.1:
   owner: GOGU
   controller: GOGU
@@ -45,10 +45,10 @@
   cores:
     GORY: no
     KOR: yes
-  pop:
-    religion: sanjiao
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: sanjiao
+      estate: peasant
+      size: 1000
 1637.1.1:
   cores:
     MNG: yes
@@ -82,7 +82,7 @@
     SKOR: yes
     NKOR: yes
 1970.1.1:
-  pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: lutheran
+      estate: peasant
+      size: 1000

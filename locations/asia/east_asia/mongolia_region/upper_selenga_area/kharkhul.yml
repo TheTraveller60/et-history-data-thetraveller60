@@ -5,11 +5,11 @@
   cores:
     XION: yes
   resource: fur
-  pop:
-    ethnicity: rouran
-    religion: 
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: rouran
+      religion: 
+      estate: peasant
+      size: 1000
 91.2.1:
   owner: XIAN
   controller: XIAN
@@ -29,10 +29,10 @@
     ROUR: no
     GOKT: yes
 600.1.1:
-  pop:
-    ethnicity: mongolian_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: mongolian_culture
+      estate: peasant
+      size: 1000
 627.1.1:
   owner: XUEY
   controller: XUEY
@@ -97,10 +97,10 @@
   cores:
     MGE: yes
 1520.1.1:
-  pop:
-    religion: tibetan_buddhism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: tibetan_buddhism
+      estate: peasant
+      size: 1000
 1635.4.1:
   owner: KHAL
   controller: KHAL

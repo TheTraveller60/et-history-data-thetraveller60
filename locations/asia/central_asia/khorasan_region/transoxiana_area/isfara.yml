@@ -5,11 +5,11 @@
   cores:
     KAGJ: yes
   resource: silk
-  pop:
-    ethnicity: sogdian
-    religion: zoroastrian
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: sogdian
+      religion: zoroastrian
+      estate: peasant
+      size: 1000
 320.1.1:
   owner: KIDA
   controller: KIDA
@@ -52,10 +52,10 @@
     UMAY: no
     ABBA: yes
 800.1.1:
-  pop:
-    ethnicity: tajik_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: tajik_culture
+      estate: peasant
+      size: 1000
 819.1.1:
   owner: KOKA
   controller: KOKA
@@ -68,10 +68,10 @@
   cores:
     BUKH: yes
 950.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: sunni
+      estate: peasant
+      size: 1000
 992.1.1:
   owner: KKHA
   controller: KKHA

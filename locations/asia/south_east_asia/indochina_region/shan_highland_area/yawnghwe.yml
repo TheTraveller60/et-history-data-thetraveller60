@@ -5,21 +5,21 @@
   cores:
     PALN: yes
   resource: cotton
-  pop:
-    ethnicity: wa_culture
-    religion: bimoism
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: wa_culture
+      religion: bimoism
+      estate: peasant
+      size: 1000
 1050.1.1:
-  pop:
-    religion: theravada
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: theravada
+      estate: peasant
+      size: 1000
 1200.1.1:
-  pop:
-    ethnicity: tai_lu_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: tai_lu_culture
+      estate: peasant
+      size: 1000
 1296.1.1:
   owner: HSI
   controller: HSI
@@ -38,10 +38,10 @@
     SHA: no
     HSI: yes
 1850.1.1:
-  pop:
-    ethnicity: burmese_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: burmese_culture
+      estate: peasant
+      size: 1000
 1938.1.1:
   owner: GBR
   controller: GBR

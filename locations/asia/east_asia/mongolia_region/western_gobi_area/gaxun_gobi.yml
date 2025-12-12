@@ -5,11 +5,11 @@
   cores:
     XION: yes
   resource: livestock
-  pop:
-    ethnicity: mongolian_culture
-    religion: 
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: mongolian_culture
+      religion: 
+      estate: peasant
+      size: 1000
 48.1.1:
   owner: SXIO
   controller: SXIO
@@ -92,10 +92,10 @@
     GUIY: no
     GANS: yes
 1000.1.1:
-  pop:
-    religion: tibetan_buddhism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: tibetan_buddhism
+      estate: peasant
+      size: 1000
 1036.1.1:
   owner: TAGT
   controller: TAGT

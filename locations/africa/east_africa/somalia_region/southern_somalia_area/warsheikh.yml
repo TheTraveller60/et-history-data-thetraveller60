@@ -5,16 +5,16 @@
   cores:
     MDI: yes
   resource: ivory
-  pop:
-    ethnicity: somali_culture
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: somali_culture
+      religion: bantu_religion
+      estate: peasant
+      size: 1000
 850.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1555.1.1:
   owner: AJU
   controller: AJU

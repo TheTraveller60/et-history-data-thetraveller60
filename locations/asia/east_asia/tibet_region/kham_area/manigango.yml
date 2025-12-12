@@ -5,11 +5,11 @@
   cores:
     DRG: yes
   resource: wool
-  pop:
-    ethnicity: khampa_culture
-    religion: bon
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: khampa_culture
+      religion: bon
+      estate: peasant
+      size: 1000
 618.1.1:
   owner: TIB
   controller: TIB
@@ -17,10 +17,10 @@
     DRG: no
     TIB: yes
 630.1.1:
-  pop:
-    religion: tibetan_buddhism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: tibetan_buddhism
+      estate: peasant
+      size: 1000
 842.1.1:
   owner: PHAG
   controller: PHAG

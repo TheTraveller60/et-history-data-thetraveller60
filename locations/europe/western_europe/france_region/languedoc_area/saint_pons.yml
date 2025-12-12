@@ -5,16 +5,16 @@
   cores:
     ROM: yes
   resource: wine
-  pop:
-    ethnicity: gallian
-    religion: hellenism_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: gallian
+      religion: hellenism_religion
+      estate: peasant
+      size: 1000
 300.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -35,10 +35,10 @@
   cores:
     ROMW: no
 600.1.1:
-  pop:
-    ethnicity: languedocien
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: languedocien
+      estate: peasant
+      size: 1000
 719.1.1:
   owner: UMAY
   controller: UMAY
@@ -83,10 +83,10 @@
     WFRA: no
     AQN: yes
 867.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: catholic
+      estate: peasant
+      size: 1000
 877.10.6:
   owner: WFRA
   controller: WFRA
@@ -103,15 +103,15 @@
   cores:
     TOU: yes
 1560.1.1:
-  pop:
-    religion: calvinist
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: calvinist
+      estate: peasant
+      size: 1000
 1686.1.17:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1870.9.4:
   owner: FRA
   controller: FRA
@@ -128,7 +128,7 @@
   cores:
     VFRA: no
 1950.1.1:
-  pop:
-    ethnicity: french
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: french
+      estate: peasant
+      size: 1000

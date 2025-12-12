@@ -5,16 +5,16 @@
   cores:
     ROM: yes
   resource: livestock
-  pop:
-    ethnicity: eastern_amazigh
-    religion: egyptian
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: eastern_amazigh
+      religion: egyptian
+      estate: peasant
+      size: 1000
 360.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 395.1.17:
   owner: BYZ
   controller: BYZ
@@ -22,10 +22,10 @@
     ROM: no
     BYZ: yes
 451.11.1:
-  pop:
-    religion: miaphysite
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: miaphysite
+      estate: peasant
+      size: 1000
 655.1.1:
   owner: RASH
   controller: RASH
@@ -45,11 +45,11 @@
     UMAY: no
     ABBA: yes
 860.1.1:
-  pop:
-    ethnicity: upper_egyptian_culture
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: upper_egyptian_culture
+      religion: sunni
+      estate: peasant
+      size: 1000
 868.9.15:
   owner: EGY
   controller: EGY

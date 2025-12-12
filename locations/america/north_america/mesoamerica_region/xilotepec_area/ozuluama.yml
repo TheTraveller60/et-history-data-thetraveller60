@@ -5,11 +5,11 @@
   cores:
     HST: yes
   resource: sugar
-  pop:
-    ethnicity: huastec_culture
-    religion: nahuatl
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: huastec_culture
+      religion: nahuatl
+      estate: peasant
+      size: 1000
 1485.1.1:
   owner: AZTE
   controller: AZTE
@@ -20,16 +20,16 @@
   controller: SPA
   cores:
     SPA: yes
-  pop:
-    ethnicity: castilian
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: castilian
+      religion: catholic
+      estate: peasant
+      size: 1000
 1770.1.1:
-  pop:
-    ethnicity: mexican
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: mexican
+      estate: peasant
+      size: 1000
 1810.9.16:
   owner: MEX
   controller: MEX

@@ -5,11 +5,11 @@
   cores:
     CHTT: yes
   resource: wool
-  pop:
-    ethnicity: rhine_franconian
-    religion: germanic
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: rhine_franconian
+      religion: germanic
+      estate: peasant
+      size: 1000
 481.1.1:
   owner: FRAN
   controller: FRAN
@@ -35,10 +35,10 @@
   owner: ASTS
   controller: ASTS
 600.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 613.10.10:
   owner: FRAN
   controller: FRAN
@@ -63,10 +63,10 @@
     FRAN: no
     EFRA: yes
 867.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: catholic
+      estate: peasant
+      size: 1000
 911.11.10:
   owner: FKN
   controller: FKN
@@ -86,10 +86,10 @@
   cores:
     THU: no
 1536.1.1:
-  pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: lutheran
+      estate: peasant
+      size: 1000
 1807.7.9:
   owner: WES
   controller: WES

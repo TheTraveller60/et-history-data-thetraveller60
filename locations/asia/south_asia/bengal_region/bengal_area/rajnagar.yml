@@ -5,16 +5,16 @@
   cores:
     JNT: yes
   resource: cotton
-  pop:
-    ethnicity: khasi_culture
-    religion: bimoism
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: khasi_culture
+      religion: bimoism
+      estate: peasant
+      size: 1000
 610.1.1:
-  pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: hindu
+      estate: peasant
+      size: 1000
 630.1.1:
   owner: GOUR
   controller: GOUR
@@ -37,10 +37,10 @@
   cores:
     DLH: no
 1350.1.1:
-  pop:
-    ethnicity: bengali
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: bengali
+      estate: peasant
+      size: 1000
 1576.7.12:
   owner: MUG
   controller: MUG
@@ -54,10 +54,10 @@
   cores:
     MUG: no
 1750.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1760.1.1:
   owner: GBR
   controller: GBR

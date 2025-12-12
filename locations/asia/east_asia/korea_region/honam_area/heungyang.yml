@@ -6,11 +6,11 @@
     MAHA: yes
     BAEK: yes
   resource: fish
-  pop:
-    ethnicity: korean_culture
-    religion: muism
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: korean_culture
+      religion: muism
+      estate: peasant
+      size: 1000
 360.1.1:
   owner: BAEK
   controller: BAEK
@@ -18,10 +18,10 @@
     MAHA: no
     BAEK: yes
 382.1.1:
-  pop:
-    religion: mahayana
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: mahayana
+      estate: peasant
+      size: 1000
 660.1.1:
   owner: SILL
   controller: SILL
@@ -48,10 +48,10 @@
   cores:
     GORY: no
     KOR: yes
-  pop:
-    religion: sanjiao
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: sanjiao
+      estate: peasant
+      size: 1000
 1597.9.26:
   controller: TOYO
 1597.11.1:
@@ -89,7 +89,7 @@
     SKOR: yes
     NKOR: yes
 1980.1.1:
-  pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: lutheran
+      estate: peasant
+      size: 1000

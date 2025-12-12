@@ -5,11 +5,11 @@
   cores:
     SATA: yes
   resource: dyes
-  pop:
-    ethnicity: telugu
-    religion: mahayana
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: telugu
+      religion: mahayana
+      estate: peasant
+      size: 1000
 220.1.1:
   owner: RDY
   controller: RDY
@@ -17,10 +17,10 @@
     SATA: no
     RDY: yes
 260.1.1:
-  pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: hindu
+      estate: peasant
+      size: 1000
 270.1.1:
   owner: VAKA
   controller: VAKA

@@ -5,11 +5,11 @@
   cores:
     HOTA: yes
   resource: gems
-  pop:
-    ethnicity: saka
-    religion: mahayana
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: saka
+      religion: mahayana
+      estate: peasant
+      size: 1000
 56.1.1:
   owner: YARK
   controller: YARK
@@ -45,10 +45,10 @@
     TIB: no
     TANG: yes
 720.1.1:
-  pop:
-    religion: tibetan_buddhism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: tibetan_buddhism
+      estate: peasant
+      size: 1000
 763.1.1:
   owner: TIB
   controller: TIB
@@ -67,10 +67,10 @@
   cores:
     KKHA: yes
 1010.1.1:
-  pop:
-    ethnicity: uyghur_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: uyghur_culture
+      estate: peasant
+      size: 1000
 1211.1.1:
   owner: KKHI
   controller: KKHI
@@ -107,10 +107,10 @@
   cores:
     ZUNG: yes
 1700.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1755.1.1:
   owner: YARK
   controller: YARK

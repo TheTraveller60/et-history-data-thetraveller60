@@ -5,11 +5,11 @@
   cores:
     VANG: yes
   resource: silk
-  pop:
-    ethnicity: bengali
-    religion: hindu
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: bengali
+      religion: hindu
+      estate: peasant
+      size: 1000
 315.1.1:
   owner: BISH
   controller: BISH

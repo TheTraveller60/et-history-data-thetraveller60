@@ -5,11 +5,11 @@
   cores:
     PESS: yes
   resource: spices
-  pop:
-    ethnicity: farsi_culture
-    religion: zoroastrian
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: farsi_culture
+      religion: zoroastrian
+      estate: peasant
+      size: 1000
 207.1.1:
   owner: ERA
   controller: ERA
@@ -29,10 +29,10 @@
     RASH: no
     UMAY: yes
 680.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: sunni
+      estate: peasant
+      size: 1000
 750.8.6:
   owner: ABBA
   controller: ABBA
@@ -40,10 +40,10 @@
     UMAY: no
     ABBA: yes
 840.1.1:
-  pop:
-    religion: shia
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: shia
+      estate: peasant
+      size: 1000
 870.1.1:
   owner: FARS
   controller: FARS

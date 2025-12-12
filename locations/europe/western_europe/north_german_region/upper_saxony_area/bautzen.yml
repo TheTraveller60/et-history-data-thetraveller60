@@ -5,32 +5,32 @@
   cores:
     NAHA: yes
   resource: cloth
-  pop:
-    ethnicity: vandal
-    religion: germanic
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: vandal
+      religion: germanic
+      estate: peasant
+      size: 1000
 395.1.1:
   owner: LOMB
   controller: LOMB
   cores:
     NAHA: no
     LOMB: yes
-  pop:
-    ethnicity: langobardi
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: langobardi
+      estate: peasant
+      size: 1000
 400.1.1:
   owner: SORB
   controller: SORB
   cores:
     LOMB: no
     SORB: yes
-  pop:
-    ethnicity: sorbian
-    religion: slavic
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: sorbian
+      religion: slavic
+      estate: peasant
+      size: 1000
 932.1.1:
   owner: SAX
   controller: SAX
@@ -50,10 +50,10 @@
     BRA: no
     SOR: yes
 968.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1003.1.1:
   controller: POL
 1005.1.1:
@@ -72,10 +72,10 @@
     POL: no
     MEI: yes
 1200.1.1:
-  pop:
-    ethnicity: saxon
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: saxon
+      estate: peasant
+      size: 1000
 1253.1.1:
   owner: BRA
   controller: BRA
@@ -110,10 +110,10 @@
     BOH: no
     HAB: yes
 1531.1.1:
-  pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: lutheran
+      estate: peasant
+      size: 1000
 1618.5.23:
   owner: BOH
   controller: BOH
@@ -148,7 +148,7 @@
   cores:
     EGER: no
 2000.1.1:
-  pop:
-    religion: irreligious
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: irreligious
+      estate: peasant
+      size: 1000

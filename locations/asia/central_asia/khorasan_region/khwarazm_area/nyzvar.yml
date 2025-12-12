@@ -5,16 +5,16 @@
   cores:
     KHWA: yes
   resource: wool
-  pop:
-    ethnicity: khwarezmian
-    religion: zoroastrian
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: khwarezmian
+      religion: zoroastrian
+      estate: peasant
+      size: 1000
 800.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1041.1.1:
   owner: OGHU
   controller: OGHU
@@ -41,10 +41,10 @@
     KHWA: no
     MGE: yes
 1222.1.1:
-  pop:
-    ethnicity: uzbek_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: uzbek_culture
+      estate: peasant
+      size: 1000
 1260.1.1:
   owner: CHG
   controller: CHG
@@ -74,10 +74,10 @@
   cores:
     TIM: yes
 1380.1.1:
-  pop:
-    ethnicity: turkmen_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: turkmen_culture
+      estate: peasant
+      size: 1000
 1409.5.13:
   owner: TRAN
   controller: TRAN

@@ -5,16 +5,16 @@
   cores:
     ROM: yes
   resource: cloth
-  pop:
-    ethnicity: helvetian
-    religion: hellenism_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: helvetian
+      religion: hellenism_religion
+      estate: peasant
+      size: 1000
 340.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -27,26 +27,26 @@
   cores:
     ROMW: no
     BUR: yes
-  pop:
-    ethnicity: burgundione
-    religion: germanic
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: burgundione
+      religion: germanic
+      estate: peasant
+      size: 1000
 450.1.1:
-  pop:
-    religion: arianism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: arianism
+      estate: peasant
+      size: 1000
 486.6.1:
-  pop:
-    ethnicity: burgundian
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: burgundian
+      estate: peasant
+      size: 1000
 500.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 534.1.1:
   owner: NEUS
   controller: NEUS
@@ -94,10 +94,10 @@
   owner: FRAN
   controller: FRAN
 700.1.1:
-  pop:
-    ethnicity: arpitan
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: arpitan
+      estate: peasant
+      size: 1000
 840.6.21:
   owner: MFRA
   controller: MFRA
@@ -117,10 +117,10 @@
     PRO: no
     ITA: yes
 867.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: catholic
+      estate: peasant
+      size: 1000
 888.1.1:
   owner: BUR
   controller: BUR
@@ -194,7 +194,7 @@
   cores:
     VFRA: no
 1950.1.1:
-  pop:
-    ethnicity: french
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: french
+      estate: peasant
+      size: 1000

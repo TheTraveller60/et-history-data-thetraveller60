@@ -5,11 +5,11 @@
   cores:
     VAND: yes
   resource: iron
-  pop:
-    ethnicity: vandal
-    religion: germanic
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: vandal
+      religion: germanic
+      estate: peasant
+      size: 1000
 395.1.1:
   owner: NAHA
   controller: NAHA
@@ -22,11 +22,11 @@
   cores:
     SCIR: no
     SIL: yes
-  pop:
-    ethnicity: silesian
-    religion: slavic
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: silesian
+      religion: slavic
+      estate: peasant
+      size: 1000
 940.1.1:
   owner: BOH
   controller: BOH
@@ -39,10 +39,10 @@
     BOH: no
     POL: yes
 1020.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1039.1.1:
   owner: BOH
   controller: BOH
@@ -67,10 +67,10 @@
   cores:
     BOH: yes
 1523.1.1:
-  pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: lutheran
+      estate: peasant
+      size: 1000
 1675.11.21:
   owner: HAB
   controller: HAB
@@ -103,7 +103,7 @@
     GER: no
     POL: yes
 1950.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: catholic
+      estate: peasant
+      size: 1000

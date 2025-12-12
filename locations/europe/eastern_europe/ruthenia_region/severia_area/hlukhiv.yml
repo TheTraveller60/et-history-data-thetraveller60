@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/1945 - Novgorod-Seversky.txt
 2.1.1:
-  pop:
-    ethnicity: ruthenian
-    religion: slavic
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: ruthenian
+      religion: slavic
+      estate: peasant
+      size: 1000
 550.1.1:
   owner: SEVE
   controller: SEVE
@@ -24,10 +24,10 @@
   cores:
     CHR: yes
 1020.1.1:
-  pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: orthodox
+      estate: peasant
+      size: 1000
 1054.2.20:
   owner: CHR
   controller: CHR
@@ -70,10 +70,10 @@
   cores:
     PLC: no
 1678.1.1:
-  pop:
-    ethnicity: muscovite
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: muscovite
+      estate: peasant
+      size: 1000
 1918.1.22:
   owner: UKR
   controller: UKR

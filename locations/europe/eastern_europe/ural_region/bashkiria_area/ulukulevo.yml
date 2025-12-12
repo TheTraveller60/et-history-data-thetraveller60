@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/475 - Bashkortostan.txt
 2.1.1:
-  pop:
-    ethnicity: bashkir
-    religion: 
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: bashkir
+      religion: 
+      estate: peasant
+      size: 1000
 660.1.1:
   owner: BSH
   controller: BSH
@@ -12,10 +12,10 @@
     BSH: yes
   resource: wool
 960.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1236.1.1:
   owner: MGE
   controller: MGE
@@ -47,11 +47,11 @@
 1574.1.1:
   cores:
     BSH: no
-  pop:
-    ethnicity: muscovite
-    religion: orthodox
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: muscovite
+      religion: orthodox
+      estate: peasant
+      size: 1000
 1775.2.1:
   controller: RUS
 1922.12.30:

@@ -5,21 +5,21 @@
   cores:
     CORV: yes
   resource: iron
-  pop:
-    ethnicity: briton
-    religion: druidism
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: briton
+      religion: druidism
+      estate: peasant
+      size: 1000
 47.1.1:
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
 300.1.1:
-  pop:
-    ethnicity: welsh
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: welsh
+      estate: peasant
+      size: 1000
 380.1.1:
   cores:
     ELME: yes
@@ -41,16 +41,16 @@
   cores:
     ELME: no
     MERC: yes
-  pop:
-    ethnicity: anglo_saxon
-    religion: germanic
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: anglo_saxon
+      religion: germanic
+      estate: peasant
+      size: 1000
 640.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 655.11.15:
   owner: NOL
   controller: NOL
@@ -62,10 +62,10 @@
   cores:
     NOL: no
 867.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: catholic
+      estate: peasant
+      size: 1000
 883.1.1:
   cores:
     WESS: yes
@@ -82,10 +82,10 @@
   cores:
     MERC: no
 1066.12.25:
-  pop:
-    ethnicity: english
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: english
+      estate: peasant
+      size: 1000
 1461.6.28:
   controller: ENG
 1470.10.6:
@@ -93,15 +93,15 @@
 1471.5.4:
   controller: ENG
 1548.1.1:
-  pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: lutheran
+      estate: peasant
+      size: 1000
 1585.1.1:
-  pop:
-    religion: calvinist
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: calvinist
+      estate: peasant
+      size: 1000
 1646.5.5:
   controller: ENG
 1707.5.12:

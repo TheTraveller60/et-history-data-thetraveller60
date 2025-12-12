@@ -5,11 +5,11 @@
   cores:
     VARI: yes
   resource: salt
-  pop:
-    ethnicity: swabian
-    religion: germanic
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: swabian
+      religion: germanic
+      estate: peasant
+      size: 1000
 400.1.1:
   owner: ALEM
   controller: ALEM
@@ -17,10 +17,10 @@
     VARI: no
     ALEM: yes
 600.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 746.1.1:
   owner: FRAN
   controller: FRAN
@@ -33,10 +33,10 @@
     FRAN: no
     EFRA: yes
 867.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: catholic
+      estate: peasant
+      size: 1000
 911.11.10:
   owner: SWA
   controller: SWA
@@ -63,10 +63,10 @@
     OET: no
     ANS: yes
 1522.1.1:
-  pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: lutheran
+      estate: peasant
+      size: 1000
 1791.12.2:
   owner: PRU
   controller: PRU

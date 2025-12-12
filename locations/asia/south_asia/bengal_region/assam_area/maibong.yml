@@ -5,11 +5,11 @@
   cores:
     DAVA: yes
   resource: grain
-  pop:
-    ethnicity: dimasa_culture
-    religion: sanamahism
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: dimasa_culture
+      religion: sanamahism
+      estate: peasant
+      size: 1000
 400.1.1:
   owner: KAMA
   controller: KAMA
@@ -22,20 +22,20 @@
     KAMA: no
     KACH: yes
 1300.1.1:
-  pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: hindu
+      estate: peasant
+      size: 1000
 1824.1.1:
   owner: GBR
   controller: GBR
   cores:
     GBR: yes
 1840.1.1:
-  pop:
-    ethnicity: bengali
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: bengali
+      estate: peasant
+      size: 1000
 1930.1.1:
   cores:
     KACH: no

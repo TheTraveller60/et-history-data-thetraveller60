@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/1146 - Ife.txt
 2.1.1:
-  pop:
-    ethnicity: yoruba
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: yoruba
+      religion: bantu_religion
+      estate: peasant
+      size: 1000
 523.1.1:
   owner: IFE
   controller: IFE
@@ -26,10 +26,10 @@
     OYO: no
     GBR: yes
 1910.1.1:
-  pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: lutheran
+      estate: peasant
+      size: 1000
 1960.10.1:
   owner: NIGR
   controller: NIGR

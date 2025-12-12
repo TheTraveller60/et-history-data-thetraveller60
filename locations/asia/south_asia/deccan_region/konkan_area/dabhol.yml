@@ -5,11 +5,11 @@
   cores:
     SATA: yes
   resource: spices
-  pop:
-    ethnicity: marathi_culture
-    religion: jain
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: marathi_culture
+      religion: jain
+      estate: peasant
+      size: 1000
 220.1.1:
   owner: ABHI
   controller: ABHI
@@ -47,10 +47,10 @@
     RAST: no
     KONK: yes
 1220.1.1:
-  pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: hindu
+      estate: peasant
+      size: 1000
 1265.1.1:
   owner: YADA
   controller: YADA

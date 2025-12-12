@@ -5,11 +5,11 @@
   cores:
     PART: yes
   resource: silk
-  pop:
-    ethnicity: mazanderani_culture
-    religion: zoroastrian
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: mazanderani_culture
+      religion: zoroastrian
+      estate: peasant
+      size: 1000
 135.1.1:
   owner: ATRO
   controller: ATRO
@@ -34,10 +34,10 @@
     MZN: no
     KRY: yes
 864.1.1:
-  pop:
-    religion: shia
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: shia
+      estate: peasant
+      size: 1000
 890.1.1:
   owner: AZER
   controller: AZER
@@ -50,10 +50,10 @@
     AZER: no
     SELJ: yes
 1100.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1157.5.8:
   owner: AZER
   controller: AZER

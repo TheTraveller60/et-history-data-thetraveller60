@@ -5,32 +5,32 @@
   cores:
     SEMN: yes
   resource: wool
-  pop:
-    ethnicity: east_franconian
-    religion: germanic
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: east_franconian
+      religion: germanic
+      estate: peasant
+      size: 1000
 280.1.1:
   owner: BUR
   controller: BUR
   cores:
     SEMN: no
     BUR: yes
-  pop:
-    ethnicity: burgundione
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: burgundione
+      estate: peasant
+      size: 1000
 395.1.1:
   owner: SORB
   controller: SORB
   cores:
     BUR: no
     SORB: yes
-  pop:
-    ethnicity: sorbian
-    religion: slavic
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: sorbian
+      religion: slavic
+      estate: peasant
+      size: 1000
 932.1.1:
   owner: SAX
   controller: SAX
@@ -50,11 +50,11 @@
     BRA: no
     SOR: yes
 968.1.1:
-  pop:
-    ethnicity: saxon
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: saxon
+      religion: catholic
+      estate: peasant
+      size: 1000
 1046.1.1:
   owner: SAX
   controller: SAX
@@ -67,10 +67,10 @@
   cores:
     THU: yes
 1520.12.10:
-  pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: lutheran
+      estate: peasant
+      size: 1000
 1547.5.19:
   owner: SAX
   controller: SAX
@@ -97,10 +97,10 @@
   cores:
     EGER: yes
 1990.1.1:
-  pop:
-    religion: irreligious
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: irreligious
+      estate: peasant
+      size: 1000
 1990.10.3:
   owner: GER
   controller: GER

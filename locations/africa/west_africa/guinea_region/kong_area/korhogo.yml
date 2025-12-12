@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/1122 - Bagoe.txt
 2.1.1:
-  pop:
-    ethnicity: dyula
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: dyula
+      religion: bantu_religion
+      estate: peasant
+      size: 1000
 1150.1.1:
   owner: KNG
   controller: KNG
@@ -24,10 +24,10 @@
     MAL: no
     KNG: yes
 1870.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1888.2.20:
   owner: FRA
   controller: FRA

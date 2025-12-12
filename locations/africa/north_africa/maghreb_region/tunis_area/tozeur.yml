@@ -5,16 +5,16 @@
   cores:
     ROM: yes
   resource: salt
-  pop:
-    ethnicity: zenati
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: zenati
+      religion: bantu_religion
+      estate: peasant
+      size: 1000
 340.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -39,11 +39,11 @@
     AURE: no
     UMAY: yes
 730.1.1:
-  pop:
-    ethnicity: tunisian
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: tunisian
+      religion: sunni
+      estate: peasant
+      size: 1000
 745.1.1:
   owner: TUN
   controller: TUN

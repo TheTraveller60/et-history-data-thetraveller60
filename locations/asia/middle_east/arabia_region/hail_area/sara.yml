@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/393 - Jabal Shammar.txt
 2.1.1:
-  pop:
-    ethnicity: najdi_culture
-    religion: south_arabian
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: najdi_culture
+      religion: south_arabian
+      estate: peasant
+      size: 1000
 425.1.1:
   owner: KIND
   controller: KIND
@@ -12,10 +12,10 @@
     KIND: yes
   resource: grain
 520.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 530.1.1:
   owner: SHAM
   controller: SHAM
@@ -27,20 +27,20 @@
   controller: RASH
   cores:
     RASH: yes
-  pop:
-    religion: islam
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: islam
+      estate: peasant
+      size: 1000
 661.7.28:
   owner: UMAY
   controller: UMAY
   cores:
     RASH: no
     UMAY: yes
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: sunni
+      estate: peasant
+      size: 1000
 750.8.6:
   owner: ABBA
   controller: ABBA

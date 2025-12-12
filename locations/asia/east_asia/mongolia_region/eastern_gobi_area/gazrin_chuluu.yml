@@ -5,11 +5,11 @@
   cores:
     XION: yes
   resource: livestock
-  pop:
-    ethnicity: mongolian_culture
-    religion: 
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: mongolian_culture
+      religion: 
+      estate: peasant
+      size: 1000
 91.2.1:
   owner: XIAN
   controller: XIAN
@@ -51,10 +51,10 @@
     GOKT: no
     UYGH: yes
 765.1.1:
-  pop:
-    religion: manichaeism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: manichaeism
+      estate: peasant
+      size: 1000
 848.1.1:
   owner: KERE
   controller: KERE
@@ -62,10 +62,10 @@
     UYGH: no
     KERE: yes
 880.1.1:
-  pop:
-    religion: nestorianism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: nestorianism
+      estate: peasant
+      size: 1000
 924.1.1:
   owner: LIAO
   controller: LIAO
@@ -78,10 +78,10 @@
     LIAO: no
     KERE: yes
 1201.1.1:
-  pop:
-    religion: 
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: 
+      estate: peasant
+      size: 1000
 1203.1.1:
   owner: KHMO
   controller: KHMO
@@ -112,10 +112,10 @@
   cores:
     MGE: yes
 1586.1.1:
-  pop:
-    religion: tibetan_buddhism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: tibetan_buddhism
+      estate: peasant
+      size: 1000
 1635.4.1:
   owner: KHAL
   controller: KHAL

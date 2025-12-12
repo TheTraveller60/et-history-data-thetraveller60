@@ -5,16 +5,16 @@
   cores:
     KARA: yes
   resource: grain
-  pop:
-    ethnicity: tocharian
-    religion: 
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: tocharian
+      religion: 
+      estate: peasant
+      size: 1000
 180.1.1:
-  pop:
-    religion: mahayana
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: mahayana
+      estate: peasant
+      size: 1000
 439.1.1:
   owner: TUYU
   controller: TUYU
@@ -26,10 +26,10 @@
   cores:
     TUYU: no
     KARA: yes
-  pop:
-    ethnicity: uyghur_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: uyghur_culture
+      estate: peasant
+      size: 1000
 650.1.1:
   owner: TANG
   controller: TANG
@@ -42,10 +42,10 @@
     TANG: no
     TIB: yes
 680.1.1:
-  pop:
-    religion: manichaeism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: manichaeism
+      estate: peasant
+      size: 1000
 692.1.1:
   owner: TANG
   controller: TANG
@@ -71,10 +71,10 @@
     UTSA: no
     UYGH: yes
 880.1.1:
-  pop:
-    religion: tibetan_buddhism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: tibetan_buddhism
+      estate: peasant
+      size: 1000
 1209.1.1:
   owner: MGE
   controller: MGE
@@ -115,10 +115,10 @@
   cores:
     QNG: yes
 1820.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1850.1.1:
   cores:
     OIR: no

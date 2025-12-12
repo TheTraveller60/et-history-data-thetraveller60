@@ -5,11 +5,11 @@
   cores:
     DACI: yes
   resource: cloth
-  pop:
-    ethnicity: dacian
-    religion: zamolxism
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: dacian
+      religion: zamolxism
+      estate: peasant
+      size: 1000
 106.1.1:
   owner: ROM
   controller: ROM
@@ -24,15 +24,15 @@
   cores:
     ROM: no
     VISG: yes
-  pop:
-    religion: germanic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: germanic
+      estate: peasant
+      size: 1000
 360.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 376.1.1:
   owner: HUNS
   controller: HUNS
@@ -40,10 +40,10 @@
     VISG: no
     HUNS: yes
 450.1.1:
-  pop:
-    ethnicity: wallachian
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: wallachian
+      estate: peasant
+      size: 1000
 469.1.1:
   owner: GEPI
   controller: GEPI
@@ -56,10 +56,10 @@
   cores:
     GEPI: no
     AVR: yes
-  pop:
-    religion: 
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: 
+      estate: peasant
+      size: 1000
 804.1.1:
   owner: BUL
   controller: BUL
@@ -67,10 +67,10 @@
     AVR: no
     BUL: yes
 867.1.1:
-  pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: orthodox
+      estate: peasant
+      size: 1000
 930.1.1:
   owner: TRA
   controller: TRA
@@ -83,10 +83,10 @@
   cores:
     HUN: yes
 1200.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1507.1.1:
   controller: HUN
 1514.10.1:
@@ -111,10 +111,10 @@
 1563.1.1:
   controller: TRA
 1567.1.1:
-  pop:
-    religion: calvinist
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: calvinist
+      estate: peasant
+      size: 1000
 1599.1.1:
   owner: WAL
   controller: WAL
@@ -157,7 +157,7 @@
     TRA: no
     RMN: yes
 1950.1.1:
-  pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: orthodox
+      estate: peasant
+      size: 1000

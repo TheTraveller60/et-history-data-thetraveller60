@@ -5,11 +5,11 @@
   cores:
     SATA: yes
   resource: gems
-  pop:
-    ethnicity: telugu
-    religion: jain
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: telugu
+      religion: jain
+      estate: peasant
+      size: 1000
 220.1.1:
   owner: RDY
   controller: RDY
@@ -17,10 +17,10 @@
     SATA: no
     RDY: yes
 620.1.1:
-  pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: hindu
+      estate: peasant
+      size: 1000
 1216.1.1:
   owner: TELI
   controller: TELI

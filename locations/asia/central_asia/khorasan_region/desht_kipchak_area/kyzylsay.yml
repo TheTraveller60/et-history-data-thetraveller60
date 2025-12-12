@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/2368 - Karamegdan.txt
 2.1.1:
-  pop:
-    ethnicity: kyrgyz_culture
-    religion: 
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: kyrgyz_culture
+      religion: 
+      estate: peasant
+      size: 1000
 260.1.1:
   owner: CHUB
   controller: CHUB
@@ -35,10 +35,10 @@
   cores:
     WGOK: no
     TURG: yes
-  pop:
-    ethnicity: uzbek_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: uzbek_culture
+      estate: peasant
+      size: 1000
 766.1.1:
   owner: KARL
   controller: KARL
@@ -63,10 +63,10 @@
   cores:
     KKHI: no
     MGE: yes
-  pop:
-    ethnicity: khazak
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: khazak
+      estate: peasant
+      size: 1000
 1260.1.1:
   owner: CHG
   controller: CHG
@@ -80,10 +80,10 @@
     CHG: no
     MOGH: yes
 1350.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1465.1.1:
   owner: KAZA
   controller: KAZA

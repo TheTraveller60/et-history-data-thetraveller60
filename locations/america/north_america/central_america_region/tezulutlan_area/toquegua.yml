@@ -5,11 +5,11 @@
   cores:
     COPA: yes
   resource: gems
-  pop:
-    ethnicity: kiche_culture
-    religion: mayan
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: kiche_culture
+      religion: mayan
+      estate: peasant
+      size: 1000
 830.1.1:
   owner: CHT
   controller: CHT
@@ -31,19 +31,19 @@
   owner: SPA
   controller: SPA
 1529.1.1:
-  pop:
-    ethnicity: castilian
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: castilian
+      religion: catholic
+      estate: peasant
+      size: 1000
 1549.1.1:
   cores:
     SPA: yes
 1770.1.1:
-  pop:
-    ethnicity: mexican
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: mexican
+      estate: peasant
+      size: 1000
 1810.9.16:
   owner: MEX
   controller: SPA

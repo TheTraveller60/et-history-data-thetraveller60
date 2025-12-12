@@ -5,11 +5,11 @@
   cores:
     OSRO: yes
   resource: sugar
-  pop:
-    ethnicity: assyrian
-    religion: ashurism
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: assyrian
+      religion: ashurism
+      estate: peasant
+      size: 1000
 91.1.1:
   owner: ARM
   controller: ARM
@@ -33,10 +33,10 @@
     OSRO: no
     PART: yes
 150.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 224.4.24:
   owner: ERA
   controller: ERA
@@ -44,10 +44,10 @@
     PART: no
     ERA: yes
 431.7.1:
-  pop:
-    religion: nestorianism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: nestorianism
+      estate: peasant
+      size: 1000
 637.1.1:
   owner: RASH
   controller: RASH
@@ -67,16 +67,16 @@
     UMAY: no
     ABBA: yes
 800.1.1:
-  pop:
-    religion: ibadi
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: ibadi
+      estate: peasant
+      size: 1000
 869.1.1:
   controller: ABBA
-  pop:
-    religion: shia
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: shia
+      estate: peasant
+      size: 1000
 911.1.1:
   owner: MOSU
   controller: MOSU
@@ -100,10 +100,10 @@
   cores:
     SELJ: yes
 1100.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1127.1.1:
   owner: MOSU
   controller: MOSU
@@ -124,10 +124,10 @@
     MGE: no
     ILK: yes
 1300.1.1:
-  pop:
-    ethnicity: iraqi_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: iraqi_culture
+      estate: peasant
+      size: 1000
 1335.1.1:
   owner: JAL
   controller: JAL
@@ -177,9 +177,9 @@
 2013.4.8:
   cores:
     ISIS: yes
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: sunni
+      estate: peasant
+      size: 1000
 2015.11.13:
   controller: IRAQ

@@ -5,21 +5,21 @@
   cores:
     NCZ: yes
   resource: cotton
-  pop:
-    ethnicity: natchez_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: natchez_culture
+      religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1716.1.1:
   owner: FRA
   controller: FRA
   cores:
     FRA: yes
-  pop:
-    ethnicity: french
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: french
+      religion: catholic
+      estate: peasant
+      size: 1000
 1763.2.10:
   owner: GBR
   controller: GBR
@@ -30,21 +30,21 @@
   controller: CHC
   cores:
     CHC: yes
-  pop:
-    ethnicity: choctaw_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: choctaw_culture
+      religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1786.1.3:
   owner: USA
   controller: USA
   cores:
     USA: yes
-  pop:
-    ethnicity: british_louisianan
-    religion: lutheran
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: british_louisianan
+      religion: lutheran
+      estate: peasant
+      size: 1000
 1861.1.9:
   owner: CSAM
   controller: CSAM

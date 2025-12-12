@@ -5,11 +5,11 @@
   cores:
     OSRO: yes
   resource: wool
-  pop:
-    ethnicity: assyrian
-    religion: ashurism
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: assyrian
+      religion: ashurism
+      estate: peasant
+      size: 1000
 91.1.1:
   owner: ARM
   controller: ARM
@@ -21,10 +21,10 @@
   cores:
     ARM: no
 110.1.1:
-  pop:
-    religion: zoroastrian
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: zoroastrian
+      estate: peasant
+      size: 1000
 116.1.1:
   owner: ROM
   controller: ROM
@@ -36,10 +36,10 @@
   cores:
     ROM: no
 179.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 244.1.1:
   owner: ROM
   controller: ROM
@@ -60,10 +60,10 @@
     ROM: no
     BYZ: yes
 431.7.1:
-  pop:
-    religion: nestorianism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: nestorianism
+      estate: peasant
+      size: 1000
 613.1.1:
   controller: ERA
 627.1.1:
@@ -154,11 +154,11 @@
   cores:
     IRA: no
 1915.1.1:
-  pop:
-    ethnicity: kurdish_culture
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: kurdish_culture
+      religion: sunni
+      estate: peasant
+      size: 1000
 1920.3.8:
   owner: SYRI
   controller: SYRI

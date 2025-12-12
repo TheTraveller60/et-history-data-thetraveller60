@@ -5,11 +5,11 @@
   cores:
     PUND: yes
   resource: cotton
-  pop:
-    ethnicity: bengali
-    religion: mahayana
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: bengali
+      religion: mahayana
+      estate: peasant
+      size: 1000
 330.1.1:
   owner: KAMA
   controller: KAMA
@@ -29,10 +29,10 @@
     GAUD: no
     KAMA: yes
 650.1.1:
-  pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: hindu
+      estate: peasant
+      size: 1000
 732.1.1:
   owner: KANN
   controller: KANN
@@ -115,10 +115,10 @@
   cores:
     MUG: no
 1750.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1760.1.1:
   owner: GBR
   controller: GBR

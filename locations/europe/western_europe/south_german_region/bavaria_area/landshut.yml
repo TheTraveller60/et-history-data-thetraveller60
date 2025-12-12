@@ -5,11 +5,11 @@
   cores:
     ROM: yes
   resource: salt
-  pop:
-    ethnicity: swabian
-    religion: germanic
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: swabian
+      religion: germanic
+      estate: peasant
+      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -21,18 +21,18 @@
   controller: BAV
   cores:
     BAV: yes
-  pop:
-    ethnicity: southern_bavarian
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: southern_bavarian
+      estate: peasant
+      size: 1000
 480.6.1:
   cores:
     ROMW: no
 550.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 788.1.1:
   owner: FRAN
   controller: FRAN
@@ -46,10 +46,10 @@
     FRAN: no
     BAV: yes
 867.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: catholic
+      estate: peasant
+      size: 1000
 880.3.22:
   owner: EFRA
   controller: EFRA

@@ -1,19 +1,19 @@
 #imported from EU4 file: history/provinces/968 - Massachusetts.txt
 2.1.1:
-  pop:
-    ethnicity: massachusett_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: massachusett_culture
+      religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1623.1.1:
   owner: ENG
   controller: ENG
   resource: fish
-  pop:
-    ethnicity: english
-    religion: calvinist
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: english
+      religion: calvinist
+      estate: peasant
+      size: 1000
 1645.1.1:
   cores:
     ENG: yes
@@ -24,10 +24,10 @@
     ENG: no
     GBR: yes
 1764.7.1:
-  pop:
-    ethnicity: american
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: american
+      estate: peasant
+      size: 1000
 1776.7.4:
   owner: USA
   controller: USA
@@ -37,9 +37,9 @@
   cores:
     GBR: no
 1920.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1970.1.1:
   resource: electronics

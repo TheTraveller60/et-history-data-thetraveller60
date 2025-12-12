@@ -5,11 +5,11 @@
   cores:
     KSH: yes
   resource: silk
-  pop:
-    ethnicity: kashmiri_culture
-    religion: mahayana
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: kashmiri_culture
+      religion: mahayana
+      estate: peasant
+      size: 1000
 375.1.1:
   owner: KIDA
   controller: KIDA
@@ -34,15 +34,15 @@
     GAND: no
     KSH: yes
 1003.1.1:
-  pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: hindu
+      estate: peasant
+      size: 1000
 1500.1.1:
-  pop:
-    religion: shia
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: shia
+      estate: peasant
+      size: 1000
 1589.7.28:
   owner: MUG
   controller: MUG

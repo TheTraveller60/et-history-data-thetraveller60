@@ -5,11 +5,11 @@
   cores:
     KADS: yes
   resource: chinaware
-  pop:
-    ethnicity: malay_culture
-    religion: mahayana
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: malay_culture
+      religion: mahayana
+      estate: peasant
+      size: 1000
 240.1.1:
   owner: RIAI
   controller: RIAI
@@ -50,10 +50,10 @@
     SING: no
     MAJ: yes
 1300.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1389.1.1:
   owner: SIAK
   controller: SIAK

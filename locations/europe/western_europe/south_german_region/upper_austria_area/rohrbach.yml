@@ -5,16 +5,16 @@
   cores:
     ROM: yes
   resource: grain
-  pop:
-    ethnicity: noric
-    religion: druidism
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: noric
+      religion: druidism
+      estate: peasant
+      size: 1000
 340.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -22,11 +22,11 @@
     ROM: no
     ROMW: yes
 420.1.1:
-  pop:
-    ethnicity: southern_bavarian
-    religion: germanic
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: southern_bavarian
+      religion: germanic
+      estate: peasant
+      size: 1000
 467.1.1:
   owner: RUGI
   controller: RUGI
@@ -61,10 +61,10 @@
     FRAN: no
     BAV: yes
 867.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: catholic
+      estate: peasant
+      size: 1000
 880.3.22:
   owner: EFRA
   controller: EFRA
@@ -77,10 +77,10 @@
     EFRA: no
     BAV: yes
 950.1.1:
-  pop:
-    ethnicity: danube_bavarian
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: danube_bavarian
+      estate: peasant
+      size: 1000
 976.1.1:
   owner: HAB
   controller: HAB

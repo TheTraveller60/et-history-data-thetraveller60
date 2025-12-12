@@ -5,16 +5,16 @@
   cores:
     YKYR: yes
   resource: fur
-  pop:
-    ethnicity: kyrgyz_culture
-    religion: 
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: kyrgyz_culture
+      religion: 
+      estate: peasant
+      size: 1000
 750.1.1:
-  pop:
-    ethnicity: tuvan_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: tuvan_culture
+      estate: peasant
+      size: 1000
 848.1.1:
   owner: TUVA
   controller: TUVA
@@ -50,10 +50,10 @@
   cores:
     MGE: yes
 1586.1.1:
-  pop:
-    religion: tibetan_buddhism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: tibetan_buddhism
+      estate: peasant
+      size: 1000
 1623.1.1:
   owner: OIR
   controller: OIR

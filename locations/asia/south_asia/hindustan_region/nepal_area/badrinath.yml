@@ -5,11 +5,11 @@
   cores:
     KUNI: yes
   resource: cotton
-  pop:
-    ethnicity: garhwali
-    religion: mahayana
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: garhwali
+      religion: mahayana
+      estate: peasant
+      size: 1000
 300.1.1:
   owner: GWL
   controller: GWL
@@ -26,10 +26,10 @@
   cores:
     HEPH: no
 1003.1.1:
-  pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: hindu
+      estate: peasant
+      size: 1000
 1803.1.1:
   controller: NPL
 1805.1.1:

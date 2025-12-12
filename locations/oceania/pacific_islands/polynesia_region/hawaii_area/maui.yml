@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/4934 - Maui.txt
 2.1.1:
-  pop:
-    ethnicity: maohi_culture
-    religion: bimoism
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: maohi_culture
+      religion: bimoism
+      estate: peasant
+      size: 1000
 1060.1.1:
   owner: MUI
   controller: MUI
@@ -23,10 +23,10 @@
   owner: HAW
   controller: HAW
 1862.1.1:
-  pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: lutheran
+      estate: peasant
+      size: 1000
 1898.7.4:
   owner: USA
   controller: USA
@@ -34,7 +34,7 @@
     HAW: no
     USA: yes
 1920.1.1:
-  pop:
-    ethnicity: british_californian
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: british_californian
+      estate: peasant
+      size: 1000

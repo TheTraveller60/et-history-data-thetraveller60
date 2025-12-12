@@ -5,11 +5,11 @@
   cores:
     JHAR: yes
   resource: iron
-  pop:
-    ethnicity: magahi
-    religion: hindu
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: magahi
+      religion: hindu
+      estate: peasant
+      size: 1000
 710.1.1:
   owner: DAKS
   controller: DAKS

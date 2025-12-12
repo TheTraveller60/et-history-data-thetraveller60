@@ -5,11 +5,11 @@
   cores:
     BAST: yes
   resource: livestock
-  pop:
-    ethnicity: ruthenian
-    religion: slavic
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: ruthenian
+      religion: slavic
+      estate: peasant
+      size: 1000
 380.1.1:
   owner: HUNS
   controller: HUNS
@@ -42,10 +42,10 @@
     PECH: no
     KIEV: yes
 988.1.1:
-  pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: orthodox
+      estate: peasant
+      size: 1000
 1054.2.20:
   owner: HAL
   controller: HAL

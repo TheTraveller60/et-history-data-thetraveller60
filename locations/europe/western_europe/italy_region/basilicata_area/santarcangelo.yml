@@ -5,16 +5,16 @@
   cores:
     ROM: yes
   resource: livestock
-  pop:
-    ethnicity: median
-    religion: hellenism_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: median
+      religion: hellenism_religion
+      estate: peasant
+      size: 1000
 380.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -42,10 +42,10 @@
     OSTR: no
     BYZ: yes
 600.1.1:
-  pop:
-    ethnicity: griko_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: griko_culture
+      estate: peasant
+      size: 1000
 847.1.1:
   owner: BARI
   controller: BARI
@@ -53,10 +53,10 @@
     BYZ: no
     BARI: yes
 867.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: catholic
+      estate: peasant
+      size: 1000
 871.1.1:
   owner: SALE
   controller: SALE
@@ -68,10 +68,10 @@
   controller: SIC
   cores:
     SIC: yes
-  pop:
-    ethnicity: neapolitan
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: neapolitan
+      estate: peasant
+      size: 1000
 1282.1.1:
   owner: NAP
   controller: NAP

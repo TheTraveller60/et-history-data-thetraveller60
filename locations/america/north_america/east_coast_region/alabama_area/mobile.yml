@@ -1,21 +1,21 @@
 #imported from EU4 file: history/provinces/922 - Mobile.txt
 2.1.1:
-  pop:
-    ethnicity: choctaw_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: choctaw_culture
+      religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1702.1.20:
   owner: FRA
   controller: FRA
   cores:
     FRA: yes
   resource: cotton
-  pop:
-    ethnicity: french
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: french
+      religion: catholic
+      estate: peasant
+      size: 1000
 1756.5.16:
   controller: GBR
 1763.2.10:
@@ -23,16 +23,16 @@
   cores:
     FRA: no
     GBR: yes
-  pop:
-    ethnicity: english
-    religion: lutheran
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: english
+      religion: lutheran
+      estate: peasant
+      size: 1000
 1770.1.1:
-  pop:
-    ethnicity: french_louisianan
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: french_louisianan
+      estate: peasant
+      size: 1000
 1783.9.3:
   owner: SPA
   controller: SPA
@@ -40,10 +40,10 @@
     GBR: no
     SPA: yes
 1790.1.1:
-  pop:
-    ethnicity: iberian_east_american
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: iberian_east_american
+      estate: peasant
+      size: 1000
 1813.4.1:
   owner: USA
   controller: USA
@@ -51,10 +51,10 @@
     SPA: no
     USA: yes
 1850.1.1:
-  pop:
-    ethnicity: british_louisianan
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: british_louisianan
+      estate: peasant
+      size: 1000
 1861.1.9:
   owner: CSAM
   controller: CSAM

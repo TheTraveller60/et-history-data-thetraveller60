@@ -5,11 +5,11 @@
   cores:
     ODW: yes
   resource: fur
-  pop:
-    ethnicity: ojibwe_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: ojibwe_culture
+      religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1841.1.1:
   owner: GBR
   controller: GBR
@@ -17,11 +17,11 @@
     ODW: no
     GBR: yes
   resource: grain
-  pop:
-    ethnicity: british_canadian
-    religion: lutheran
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: british_canadian
+      religion: lutheran
+      estate: peasant
+      size: 1000
 1867.7.1:
   owner: CAN
   controller: CAN

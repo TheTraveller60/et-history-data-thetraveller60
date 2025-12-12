@@ -5,11 +5,11 @@
   cores:
     AFAR: yes
   resource: livestock
-  pop:
-    ethnicity: afar_culture
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: afar_culture
+      religion: bantu_religion
+      estate: peasant
+      size: 1000
 220.1.1:
   owner: AKSM
   controller: AKSM
@@ -22,10 +22,10 @@
     AKSM: no
     AFAR: yes
 880.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1420.1.1:
   owner: ADA
   controller: ADA

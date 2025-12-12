@@ -5,16 +5,16 @@
   cores:
     SAX: yes
   resource: fish
-  pop:
-    ethnicity: lower_saxon
-    religion: germanic
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: lower_saxon
+      religion: germanic
+      estate: peasant
+      size: 1000
 700.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 804.1.1:
   owner: FRAN
   controller: FRAN
@@ -27,10 +27,10 @@
     FRAN: no
     EFRA: yes
 867.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: catholic
+      estate: peasant
+      size: 1000
 911.11.10:
   owner: SAX
   controller: SAX
@@ -66,10 +66,10 @@
     HOLS: no
     HAM: yes
 1529.1.1:
-  pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: lutheran
+      estate: peasant
+      size: 1000
 1810.12.13:
   owner: FRA
   controller: FRA

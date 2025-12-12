@@ -5,11 +5,11 @@
   cores:
     PUZH: yes
   resource: coffee
-  pop:
-    ethnicity: kannadiga
-    religion: jain
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: kannadiga
+      religion: jain
+      estate: peasant
+      size: 1000
 280.1.1:
   owner: PALL
   controller: PALL
@@ -41,10 +41,10 @@
     RAST: no
     GANG: yes
 880.1.1:
-  pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: hindu
+      estate: peasant
+      size: 1000
 1000.1.1:
   owner: CHOL
   controller: CHOL

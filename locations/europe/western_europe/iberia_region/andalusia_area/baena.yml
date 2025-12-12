@@ -5,16 +5,16 @@
   cores:
     ROM: yes
   resource: wool
-  pop:
-    ethnicity: turduli
-    religion: druidism
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: turduli
+      religion: druidism
+      estate: peasant
+      size: 1000
 340.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -32,10 +32,10 @@
   cores:
     VAND: no
 430.1.1:
-  pop:
-    religion: arianism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: arianism
+      estate: peasant
+      size: 1000
 440.1.1:
   owner: SUEB
   controller: SUEB
@@ -60,10 +60,10 @@
   controller: BYZ
   cores:
     BYZ: yes
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 570.1.1:
   owner: VISG
   controller: VISG
@@ -76,15 +76,15 @@
     VISG: no
     UMAY: yes
 740.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: sunni
+      estate: peasant
+      size: 1000
 750.1.1:
-  pop:
-    ethnicity: andalusi
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: andalusi
+      estate: peasant
+      size: 1000
 750.8.6:
   owner: CRDB
   controller: CRDB
@@ -110,20 +110,20 @@
     CRDB: no
     CAS: yes
 1280.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1516.1.23:
   owner: SPA
   controller: SPA
   cores:
     SPA: yes
 1610.1.12:
-  pop:
-    ethnicity: castilian
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: castilian
+      estate: peasant
+      size: 1000
 1713.4.11:
   cores:
     CAS: no
